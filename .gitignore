@@ -23,4 +23,13 @@
 hs_err_pid*
 
 # JavaDocs directory
-./JavaDocs
+/JavaDocs
+
+# Default ignored files
+/shelf/
+/workspace.xml
+*.xml
+*.jpg
+*.mp4
+*.svg
+*.png
